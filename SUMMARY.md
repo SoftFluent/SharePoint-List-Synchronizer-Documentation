@@ -4,4 +4,5 @@
 * [Overview](overview.md)
 * [Installation](installation.md)
    * [Visual Installation](visual_installation.md)
+   * Silent Installation
 
