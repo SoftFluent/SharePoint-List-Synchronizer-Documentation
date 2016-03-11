@@ -32,7 +32,6 @@ To activate the feature:
 
 By activating this feature through our tool, Excel will now prompt users for their credentials and pass them to the site. This way, Excel 2010 users will be able to open SharePoint Lists from access protected sites in two-way sync over again.
 
-
 ### Using Microsoft Excel 2013 and higher
 
 With Microsoft Excel 2013 or higher, for security reasons, you must use SSL if you use basic authentication.
