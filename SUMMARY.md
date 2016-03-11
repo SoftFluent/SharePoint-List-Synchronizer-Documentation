@@ -6,4 +6,5 @@
 * [Uninstallation](uninstallation.md)
 * [Usage](usage.md)
    * [Scenario](scenario.md)
+   * Basic authentification over non-SSL HTTP connections
 
