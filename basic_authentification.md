@@ -37,6 +37,3 @@ By activating this feature through our tool, Excel will now prompt users for the
 With Microsoft Excel 2013 or higher, for security reasons, you must use SSL if you use basic authentication.
 
 **Important note**: Even if you uninstall Microsoft Excel 2013 and revert to previous versions, you won't be able to use basic authentication without SSL.
-
-
-
