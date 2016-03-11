@@ -7,7 +7,7 @@ By default, **Microsoft Excel 2010** doesn't prompt for user name and password w
 
 Therefore, when trying to access a list on one of those access protected sites results in the following error:
 
-![Permission Denied](img/6.1 - permission denied.png)
+![Permission Denied](6.1 - permission denied.png)
 
 The SharePoint List Synchronizer for Excel supports such scenario thanks to its "**Basic authentication over non-SSL connections**" feature.
 
@@ -18,15 +18,15 @@ In a nutshell, activate this feature if:
 To activate the feature:
 •	Launch "**SharePoint List Synchronizer For Excel - Configuration**" from the start menu
 
-![Launch SharePoint List Synchronizer for Excel](img/6.2 - Launch XLSync.png)
+![Launch SharePoint List Synchronizer for Excel](6.2 - Launch XLSync.png)
 
 * Click on "**Advanced**"
 
-![Advanced](img/6.3 - Advanced_conf.png)
+![Advanced](6.3 - Advanced_conf.png)
 
 * Then check "**Enable Microsoft Office Excel 2010 Basic authentication over non-SSL HTTP connections**", click "**OK**" and close the application.
 
-![Advanced Option](img/6.4 - Advanced_option.png)
+![Advanced Option](6.4 - Advanced_option.png)
 
 *Note: To disable the feature, repeat the same steps and uncheck it.*
 
