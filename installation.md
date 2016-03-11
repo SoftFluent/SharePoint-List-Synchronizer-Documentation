@@ -15,12 +15,28 @@
 
 * Type-in your license key, click on "**Validate Key**", and "**Next**"
 
-![Validate Key](3.3 - install.png)
+![Validate Key](3.3 - validate_key.png)
 
 * Select your destination folder
 
-![Destination Folder](3.4 - install.png)
+![Destination Folder](3.4 - destination_folder.png)
 
 * Click "**Install**" to install the application on your machine
 
-![](3.5 - install.png)
+![](3.5 - install_end.png)
+
+* The application will be deployed to the destination folder, and upon completion the following form will show up:
+
+![](3.6 - finish.png)
+
+
+
+## Silent Installation
+
+To install the tool silently you can use the following command line:
+
+`$>msiexec /i XlSyncSetup.msi /qn XLSYNC_KEY=<provided key>`
+
+**Note**: Don't forget to replace the `<provided key>` tag by your actual key.
+
+
