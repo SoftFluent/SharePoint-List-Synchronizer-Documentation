@@ -6,4 +6,4 @@ In **Microsoft Office Excel 2007, 2010, 2013 & 2016**, the ability to update the
 
 However, the **SharePoint List Synchronizer for Excel**, presented here, addresses this issue and allows Excel users to open SharePoint Lists in two-way sync.
 
-![Introduction](img/1 - introduction.png)
+![Introduction](1 - introduction.png)
