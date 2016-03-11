@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Introduction](su.md)
 * [Introduction](introduction.md)
 * [Overview](overview.md)
    * Silent installation
