@@ -28,8 +28,6 @@
 
 ![](3.6 - finish.png)
 
-
-
 ## Silent Installation
 
 To install the tool silently you can use the following command line:
