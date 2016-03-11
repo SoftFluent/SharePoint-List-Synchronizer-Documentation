@@ -3,4 +3,5 @@
 * [Introduction](README.md)
 * [Overview](overview.md)
 * [Installation](installation.md)
+* Uninstallation
 
