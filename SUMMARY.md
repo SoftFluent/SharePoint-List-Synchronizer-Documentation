@@ -4,4 +4,5 @@
 * [Overview](overview.md)
 * [Installation](installation.md)
 * [Uninstallation](uninstallation.md)
+* Usage
 
